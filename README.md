@@ -12,7 +12,7 @@ Projeto de estudos de regressão linear
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Regressão Linear**
-| :label: Tecnologias | python (numpy, pandas, seaborn, sklearn, scikit, pickle)
+| :label: Tecnologias | python, numpy, pandas, seaborn, sklearn, scikit, pickle
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://vitrinedev.s3.amazonaws.com/regressao_linear.png#vitrinedev)
